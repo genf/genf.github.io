@@ -1,7 +1,5 @@
 ---
 title: "New York City Testimony on Public Oversight Surveillance Technology Act"
-categories:
-  - Blog
 ---
 
 On December 18th, I delivered testimony to the New York City Council on behalf of the AI Now Institute and urged the Council to pass the Public Oversight Surveillance Technology (POST) Act. 
