@@ -1,14 +1,13 @@
 ---
-title: "Post: Modified Date"
-last_modified_at: 2016-03-09T16:20:02-05:00
+title: "New York City Testimony on Public Oversight Surveillance Technology Act"
 categories:
   - Blog
-tags:
-  - Post Formats
-  - readability
-  - standard
 ---
 
-This post has been updated and should show a modified date if used in a layout.
+On December 18th, I delivered testimony to the New York City Council on behalf of AI Now Institute, urging the Council to pass the Public Oversight Surveillance Technology (POST) Act. 
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+The POST Act mandates a modest level of public disclosure around the use of surveillance technology by the New York Police Department (NYPD). The NYPD has long argued that the level of disclosure required by the POST Act would thwart NYPD's policing efforts by allowing surveillance systems to be "gamed" by adversaries, thereby posing a risk to public safety. Our testimony explains why this is not the case, and that failure to pass the POST Act presents a greater risk to public accountability and trust in the NYPD.
+
+See our written testimony <cite><a href="https://ainowinstitute.org/ainow-genevieve-fried-testimony-nycc-hearing-postact.pdf">here</a></cite> 
+
+
